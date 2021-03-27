@@ -2829,7 +2829,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 0.4
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -2868,7 +2868,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -3961,7 +3961,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"coolTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"stayGoalTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"parentObj","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"hasItemPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"itemsParent","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"coolTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"stayGoalTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"hasItemsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"hasItemPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"itemsParent","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1330183663}
     - {fileID: 83072430600309129, guid: 20b79f0c1f39d2e45b87848c291a5345, type: 3}
