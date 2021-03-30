@@ -10,8 +10,7 @@ AnimatorState:
   m_Name: Walk
   m_Speed: 1
   m_CycleOffset: 0
-  m_Transitions:
-  - {fileID: 1305908284828867450}
+  m_Transitions: []
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -230,12 +229,6 @@ AnimatorController:
   m_Name: SkeletonController
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: isTracking
-    m_Type: 4
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 0}
   - m_Name: revive
     m_Type: 9
     m_DefaultFloat: 0
@@ -378,12 +371,6 @@ AnimatorStateMachine:
   - serializedVersion: 1
     m_State: {fileID: 8102035504464808521}
     m_Position: {x: 210, y: -100, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 6047333706016175469}
-    m_Position: {x: 10, y: 160, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: -5862304463700147024}
-    m_Position: {x: 230, y: 160, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 6901710481308135703}
     m_Position: {x: 480, y: -100, z: 0}

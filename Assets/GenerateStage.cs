@@ -29,7 +29,7 @@ public class GenerateStage : MonoBehaviour
         textData = textLines.Split('\n');
  
         col = textData[0].Split(',').Length;
-        raw = textData.Length - 1;
+        raw = textData.Length;
  
         for(int i = 0; i < raw; i++)
         { 
