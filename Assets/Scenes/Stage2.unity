@@ -6907,6 +6907,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5316416448447216332, guid: c81e77db99d067047918b1ed43106074, type: 3}
   m_PrefabInstance: {fileID: 453746676}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &414268723 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 702486572975330961, guid: 9e6bca431044bfa4eadc450d0f93f98b, type: 3}
+  m_PrefabInstance: {fileID: 594706001}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &416606828
 GameObject:
   m_ObjectHideFlags: 0
@@ -35585,7 +35590,7 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"collection":{"$content":[{"name":"FireButton","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CoolTimeText","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"ItemCounterText","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"ClearText","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 0}
+    - {fileID: 414268723}
     - {fileID: 594706004}
     - {fileID: 594706005}
     - {fileID: 594706003}
