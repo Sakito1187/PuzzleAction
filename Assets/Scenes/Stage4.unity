@@ -26923,6 +26923,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 5461052778878357249}
+    - target: {fileID: 7127986660140718514, guid: 9e6bca431044bfa4eadc450d0f93f98b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2063407933}
+    - target: {fileID: 7127986660140718514, guid: 9e6bca431044bfa4eadc450d0f93f98b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TriggerUnityEvent
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9e6bca431044bfa4eadc450d0f93f98b, type: 3}
 --- !u!1 &5461052778878357248 stripped
