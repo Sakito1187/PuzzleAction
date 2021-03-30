@@ -10348,6 +10348,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 702486572975330957, guid: 9e6bca431044bfa4eadc450d0f93f98b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 6119249928774219095}
+    - target: {fileID: 702486572975330957, guid: 9e6bca431044bfa4eadc450d0f93f98b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TriggerUnityEvent
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9e6bca431044bfa4eadc450d0f93f98b, type: 3}
 --- !u!1 &594706002 stripped
@@ -38160,6 +38168,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e8bae78b07159e04280da3a73e291b88, type: 3}
+--- !u!114 &6119249928774219095 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2243496242025839191, guid: e8bae78b07159e04280da3a73e291b88, type: 3}
+  m_PrefabInstance: {fileID: 6119249928774219094}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5461052778878357248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &7745852977965251419
 PrefabInstance:
   m_ObjectHideFlags: 0
