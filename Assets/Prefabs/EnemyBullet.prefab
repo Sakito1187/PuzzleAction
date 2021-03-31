@@ -9877,7 +9877,7 @@ Transform:
   m_GameObject: {fileID: 8008422954298744756}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 5, z: 25.09}
-  m_LocalScale: {x: 5, y: 5, z: 5}
+  m_LocalScale: {x: 4, y: 4, z: 4}
   m_Children:
   - {fileID: 4442646888639806410}
   m_Father: {fileID: 0}
@@ -9974,8 +9974,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"collection":{"$content":[{"name":"ElectricPrefab","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 8607524194421651811, guid: 0ccf946cf2a4aa24f85b605f431cc5ca, type: 3}
 --- !u!114 &-3624771945419518587
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -111,8 +111,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"collection":{"$content":[{"name":"HitEffectPrefab","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 8999189212295624517, guid: 0093c938828444c4bb9e85bb7f8d0a07, type: 3}
 --- !u!114 &4206148469350490159
 MonoBehaviour:
   m_ObjectHideFlags: 0

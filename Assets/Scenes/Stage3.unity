@@ -28548,7 +28548,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"coolTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"stayGoalTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"hasItemsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"hasItemPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"itemsParent","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"DeadPanel","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Panel","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Player","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"PoofPrefab","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HitPrefab","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"coolTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"stayGoalTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"hasItemsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"hasItemPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"itemsParent","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"DeadPanel","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Panel","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Player","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"PoofPrefab","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1330183663}
     - {fileID: 1715884528512083659, guid: 20b79f0c1f39d2e45b87848c291a5345, type: 3}
@@ -28557,7 +28557,6 @@ MonoBehaviour:
     - {fileID: 1511912947}
     - {fileID: 5461052778878357248}
     - {fileID: 5897356828716058585, guid: d8212973278671e458c0af065b77dc18, type: 3}
-    - {fileID: 8999189212295624517, guid: 0093c938828444c4bb9e85bb7f8d0a07, type: 3}
 --- !u!4 &1714759924
 Transform:
   m_ObjectHideFlags: 0

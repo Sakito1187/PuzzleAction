@@ -4142,7 +4142,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HitEffectPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -13072,7 +13076,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HitEffectPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -20624,7 +20632,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6984785665408044711, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6984785665408044711, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20668,7 +20676,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":2,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":2,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HitEffectPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -24277,7 +24289,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":1,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HitEffectPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -25105,8 +25121,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 191496363}
-  - {fileID: 1913599762}
   - {fileID: 1130288255513530936}
+  - {fileID: 1913599762}
   - {fileID: 2040551175}
   - {fileID: 110802150}
   - {fileID: 275761724}
@@ -29001,7 +29017,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HitEffectPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -33505,7 +33525,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"coolTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"stayGoalTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"hasItemsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"hasItemPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"itemsParent","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"DeadPanel","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Panel","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Player","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"PoofPrefab","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HitPrefab","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"coolTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"stayGoalTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"hasItemsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"hasItemPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"itemsParent","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"DeadPanel","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Panel","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Player","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"PoofPrefab","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1330183663}
     - {fileID: 1715884528512083659, guid: 20b79f0c1f39d2e45b87848c291a5345, type: 3}
@@ -33514,7 +33534,6 @@ MonoBehaviour:
     - {fileID: 1511912947}
     - {fileID: 5461052778878357248}
     - {fileID: 5897356828716058585, guid: d8212973278671e458c0af065b77dc18, type: 3}
-    - {fileID: 8999189212295624517, guid: 0093c938828444c4bb9e85bb7f8d0a07, type: 3}
 --- !u!4 &1714759924
 Transform:
   m_ObjectHideFlags: 0
@@ -36866,7 +36885,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":2,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":2,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HitEffectPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -40546,7 +40569,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":3,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":3,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HitEffectPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
@@ -41368,7 +41395,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6984785665408044711, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6984785665408044711, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: m_LocalPosition.x
@@ -41414,21 +41441,5 @@ PrefabInstance:
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
       objectReference: {fileID: 5579460936377280654}
-    - target: {fileID: 8016801649166435052, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
-      propertyPath: m_Speed
-      value: 30
-      objectReference: {fileID: 0}
-    - target: {fileID: 8016801649166435052, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
-      propertyPath: m_Acceleration
-      value: 30
-      objectReference: {fileID: 0}
-    - target: {fileID: 8016801649166435052, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
-      propertyPath: m_AngularSpeed
-      value: 360
-      objectReference: {fileID: 0}
-    - target: {fileID: 8016801649166435052, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
-      propertyPath: m_ObstacleAvoidanceType
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}

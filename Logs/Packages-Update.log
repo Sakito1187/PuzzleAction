@@ -52,3 +52,11 @@ Update Mode: mergeDefaultDependencies
 
 The following packages were added:
   com.unity.2d.sprite@1.0.0
+
+=== Wed Mar 31 19:51:00 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.test-framework from version 1.1.22 to 1.1.24
