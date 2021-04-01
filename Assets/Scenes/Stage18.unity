@@ -11579,10 +11579,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1366364649}
     m_Modifications:
-    - target: {fileID: 2423583114294620037, guid: 4f19e78a59b20d641a81a3f9e39a6fb8, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"TurtleAnimator","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"isBlocking","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"trackDistance","value":{"$content":80.0,"$type":"System.Single"},"$version":"A"},{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"fromBlockDelay","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"toBlockDelay","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
     - target: {fileID: 2423583114294620039, guid: 4f19e78a59b20d641a81a3f9e39a6fb8, type: 3}
       propertyPath: m_Name
       value: Turtle

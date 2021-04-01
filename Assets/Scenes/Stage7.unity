@@ -27103,6 +27103,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"destPoint","value":{"$content":2,"$type":"System.Int32"},"$version":"A"},{"name":"NavPointsParent","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HitEffectPrefab","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8016801649166435027, guid: 8adc5da0645e43d43a76e23a637ed667, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
       objectReference: {fileID: 5579460936377280654}
