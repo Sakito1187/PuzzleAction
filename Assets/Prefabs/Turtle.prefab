@@ -724,7 +724,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"TurtleAnimator","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"delay","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"isBlocking","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"trackDistance","value":{"$content":70.0,"$type":"System.Single"},"$version":"A"},{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"TurtleAnimator","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"delay","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"isBlocking","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"trackDistance","value":{"$content":80.0,"$type":"System.Single"},"$version":"A"},{"name":"isDead","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 2375553791908932579}
 --- !u!114 &2423583114294620038
@@ -753,8 +753,8 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.5
-  m_Speed: 20
-  m_Acceleration: 20
+  m_Speed: 10
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 0

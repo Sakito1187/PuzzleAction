@@ -1267,7 +1267,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5081087048909455027}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 180, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children:
   - {fileID: 5082792123172024769}
@@ -1321,7 +1321,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"bulletSpeed","value":{"$content":3000.0,"$type":"System.Single"},"$version":"A"},{"name":"fireInterval","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"PlantAnimator","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"bulletSpeed","value":{"$content":3000.0,"$type":"System.Single"},"$version":"A"},{"name":"fireInterval","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"PlantAnimator","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"ready","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 5175243952547021453}
 --- !u!114 &4514829411473053542
