@@ -245,6 +245,7 @@ namespace Ludiq.Generated.Aot
 	// UltimateJoystickScreenSizeUpdater.op_Equality
 	// UltimateJoystickScreenSizeUpdater.op_Implicit
 	// UltimateJoystickScreenSizeUpdater.op_Inequality
+	// UnityEngine.AI.NavMeshAgent.acceleration
 	// UnityEngine.AI.NavMeshAgent.destination
 	// UnityEngine.AI.NavMeshAgent.isStopped
 	// UnityEngine.AI.NavMeshAgent.op_Equality
@@ -572,7 +573,6 @@ namespace Ludiq.Generated.Aot
 	// UnityEngine.Material.op_Inequality
 	// UnityEngine.Mathf.CeilToInt
 	// UnityEngine.Mathf.Cos
-	// UnityEngine.Mathf.PI
 	// UnityEngine.Mathf.Pow
 	// UnityEngine.Mathf.Sin
 	// UnityEngine.Matrix4x4.op_Equality
@@ -721,6 +721,7 @@ namespace Ludiq.Generated.Aot
 	// UnityEngine.SparseTexture.op_Equality
 	// UnityEngine.SparseTexture.op_Implicit
 	// UnityEngine.SparseTexture.op_Inequality
+	// UnityEngine.SphereCollider..ctor
 	// UnityEngine.SphereCollider.enabled
 	// UnityEngine.SphereCollider.op_Equality
 	// UnityEngine.SphereCollider.op_Implicit
@@ -3674,6 +3675,18 @@ namespace Ludiq.Generated.Aot
 			global::Ludiq.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool> optimized = new global::Ludiq.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool>(default(global::System.Reflection.MethodInfo));
 			optimized.Invoke(null, arg0, arg1);
 			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.AI.NavMeshAgent.acceleration
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_AI_NavMeshAgent_acceleration()
+		{
+			global::UnityEngine.AI.NavMeshAgent target = default(global::UnityEngine.AI.NavMeshAgent);
+			float accessor = target.acceleration;
+			target.acceleration = default(float);
+			global::Ludiq.InstancePropertyAccessor<UnityEngine.AI.NavMeshAgent, float> optimized = new global::Ludiq.InstancePropertyAccessor<UnityEngine.AI.NavMeshAgent, float>(default(global::System.Reflection.PropertyInfo));
+			optimized.GetValue(default(global::UnityEngine.AI.NavMeshAgent));
+			optimized.SetValue(default(global::UnityEngine.AI.NavMeshAgent), default(float));
 		}
 		
 		// UnityEngine.AI.NavMeshAgent.destination
@@ -7475,15 +7488,6 @@ namespace Ludiq.Generated.Aot
 			optimized.Invoke(default(object[]));
 		}
 		
-		// UnityEngine.Mathf.PI
-		[global::UnityEngine.Scripting.PreserveAttribute()]
-		public static void UnityEngine_Mathf_PI()
-		{
-			float accessor = global::UnityEngine.Mathf.PI;
-			global::Ludiq.StaticFieldAccessor<float> optimized = new global::Ludiq.StaticFieldAccessor<float>(default(global::System.Reflection.FieldInfo));
-			optimized.GetValue(null);
-		}
-		
 		// UnityEngine.Mathf.Pow
 		[global::UnityEngine.Scripting.PreserveAttribute()]
 		public static void UnityEngine_Mathf_Pow()
@@ -9205,6 +9209,13 @@ namespace Ludiq.Generated.Aot
 			global::Ludiq.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool> optimized = new global::Ludiq.StaticFunctionInvoker<UnityEngine.Object, UnityEngine.Object, bool>(default(global::System.Reflection.MethodInfo));
 			optimized.Invoke(null, arg0, arg1);
 			optimized.Invoke(default(object[]));
+		}
+		
+		// UnityEngine.SphereCollider..ctor
+		[global::UnityEngine.Scripting.PreserveAttribute()]
+		public static void UnityEngine_SphereCollider_ctor()
+		{
+			new UnityEngine.SphereCollider();
 		}
 		
 		// UnityEngine.SphereCollider.enabled

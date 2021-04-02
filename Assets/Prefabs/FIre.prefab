@@ -9650,9 +9650,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3148235783846156482}
+  - component: {fileID: 4590145896581020337}
   m_Layer: 0
   m_Name: FIre
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9674,6 +9675,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &4590145896581020337
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3151319046214096178}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.23999998
+  m_Height: 1
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.5407624, z: 0}
 --- !u!1 &3151662124421237754
 GameObject:
   m_ObjectHideFlags: 0

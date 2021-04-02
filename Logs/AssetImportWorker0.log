@@ -15,11 +15,11 @@ D:/UnityProjects/PuzzleAction
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54411
+60678
 Successfully changed project path to: D:/UnityProjects/PuzzleAction
 D:/UnityProjects/PuzzleAction
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 39.54 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 36.17 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path D:/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -35,141 +35,673 @@ Initialize mono
 Mono path[0] = 'D:/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56068
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56276
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000881 seconds.
+Registered in 0.001104 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 35.00 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 35.76 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.674 seconds
+- Completed reload, in  1.638 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004790 seconds.
+Registered in 0.004639 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.782 seconds
+- Completed reload, in  0.840 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1372 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 146.2 MB.
 System memory in use after: 146.2 MB.
 
 Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1843.
-Total: 1.749600 ms (FindLiveObjects: 0.284000 ms CreateObjectMapping: 0.064700 ms MarkObjects: 1.309500 ms  DeleteObjects: 0.087900 ms)
+Total: 1.500300 ms (FindLiveObjects: 0.148500 ms CreateObjectMapping: 0.048900 ms MarkObjects: 1.216700 ms  DeleteObjects: 0.085600 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/Stage13.unity
-  artifactKey: Guid(88c5142233ee1634d94098e966ca05eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Stage13.unity using Guid(88c5142233ee1634d94098e966ca05eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bd90057c6ee90593c7c53e25c54d74') in 0.012684 seconds
-  Import took 0.020696 seconds .
+  path: Assets/Scenes/Stage20.unity
+  artifactKey: Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20.unity using Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a742d5eaf50eae08783aff0cbce52cb6') in 0.013951 seconds
+  Import took 0.016065 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.292955 seconds.
-  path: Assets/Scenes/Stage18.unity
-  artifactKey: Guid(5722542a334115440b9fd273053fea65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Stage18.unity using Guid(5722542a334115440b9fd273053fea65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c699798662c4a77a672572a8a7f58193') in 0.004982 seconds
-  Import took 0.007113 seconds .
+  Time since last request: 0.005066 seconds.
+  path: Assets/Scenes/Stage20.unity
+  artifactKey: Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20.unity using Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a742d5eaf50eae08783aff0cbce52cb6') in 0.001801 seconds
+  Import took 0.003788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.450898 seconds.
+  path: Assets/Scenes/Stage20.unity
+  artifactKey: Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20.unity using Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4c9c9963c32b56663f139d9a070b40b') in 0.002164 seconds
+  Import took 0.024016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.010759 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/GetHit.fbx
+  artifactKey: Guid(5f2db313e731a804f87792551c7115d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/GetHit.fbx using Guid(5f2db313e731a804f87792551c7115d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce46c6f6568f9e41794c27dcbcb2b78e') in 0.260609 seconds
+  Import took 0.263165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/Run.fbx
+  artifactKey: Guid(c57d916d29674954291c04532dc84e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/Run.fbx using Guid(c57d916d29674954291c04532dc84e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43464dc7f985619dfb0a69db0939a66f') in 0.057308 seconds
+  Import took 0.065775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/SenseSomethingST.fbx
+  artifactKey: Guid(796603c3b0055d64bae25f5fc49cddfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/SenseSomethingST.fbx using Guid(796603c3b0055d64bae25f5fc49cddfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c19df8fd11bfbaf74ca784993dee80') in 0.044447 seconds
+  Import took 0.054227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/IdleBattle.fbx
+  artifactKey: Guid(45a1d8c7c77faed4084745426c74cb43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/IdleBattle.fbx using Guid(45a1d8c7c77faed4084745426c74cb43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7993b709b0473cb439ff24075d627016') in 0.063139 seconds
+  Import took 0.077318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/Victory.fbx
+  artifactKey: Guid(908041ed8c0c21e499248a38a8a9e688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/Victory.fbx using Guid(908041ed8c0c21e499248a38a8a9e688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce83baa81d1d8c9b1f870d7fb569d031') in 0.078764 seconds
+  Import took 0.081126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/IdleNormal.fbx
+  artifactKey: Guid(366d105570b70e249b801e2089cb6ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/IdleNormal.fbx using Guid(366d105570b70e249b801e2089cb6ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef8a4ddd5e4062c3492e4a553e39e7a4') in 0.060216 seconds
+  Import took 0.062609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/Taunting.fbx
+  artifactKey: Guid(16ca83f9997ff064cb182b66d459e1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/Taunting.fbx using Guid(16ca83f9997ff064cb182b66d459e1f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0233c8731488d4dec3d4a3fb6dec746a') in 0.062795 seconds
+  Import took 0.065159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/WalkBWD.fbx
+  artifactKey: Guid(a3df56f669e63f34982b1a9b61b49967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/WalkBWD.fbx using Guid(a3df56f669e63f34982b1a9b61b49967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23793d11dde1051425cd17d41e4d56b1') in 0.055686 seconds
+  Import took 0.064079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/WalkFWD.fbx
+  artifactKey: Guid(27b4984bb29bf9242847f659cf30dfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/WalkFWD.fbx using Guid(27b4984bb29bf9242847f659cf30dfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9461be2af0c01ad3dc0b4f3bffefeb') in 0.064683 seconds
+  Import took 0.075538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/WalkRight.fbx
+  artifactKey: Guid(cdfe5de70e2488d4887c78b2ca8f0020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/WalkRight.fbx using Guid(cdfe5de70e2488d4887c78b2ca8f0020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bafac92b8a442c2b6fdf4110c4bb29a9') in 0.089772 seconds
+  Import took 0.101667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/SenseSomethingRPT.fbx
+  artifactKey: Guid(e8d3ca6f0bdeba4459d953b588474aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/SenseSomethingRPT.fbx using Guid(e8d3ca6f0bdeba4459d953b588474aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a2cbcc54365de300749b4353141b23') in 0.034629 seconds
+  Import took 0.037007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Specter/WalkLeft.fbx
+  artifactKey: Guid(2607426960141904cbbdc7171f2776bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Specter/WalkLeft.fbx using Guid(2607426960141904cbbdc7171f2776bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23255454bbf4df1d2868d8562a203841') in 0.063650 seconds
+  Import took 0.078930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.562754 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/Dizzy.fbx
+  artifactKey: Guid(a458283ecb627ae4c86a916a44349128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/Dizzy.fbx using Guid(a458283ecb627ae4c86a916a44349128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2421208e2fead70d9bad946698d4df28') in 0.101461 seconds
+  Import took 0.103769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/Victory.fbx
+  artifactKey: Guid(9b80c28083c7d644d9d42d6712f37c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/Victory.fbx using Guid(9b80c28083c7d644d9d42d6712f37c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4e380e2a27e24fbdb89101fa3bb6e7e') in 0.089200 seconds
+  Import took 0.091368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/IdleDefenseGetHit.fbx
+  artifactKey: Guid(3cf029bcd3c457f4a9bd572a417826cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/IdleDefenseGetHit.fbx using Guid(3cf029bcd3c457f4a9bd572a417826cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8b7ec4b0e935834170cd57ff6966fd') in 0.076109 seconds
+  Import took 0.101566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/Run.fbx
+  artifactKey: Guid(2bb935f774df5134787b06e2dc2d276c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/Run.fbx using Guid(2bb935f774df5134787b06e2dc2d276c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3e836aa54e52a4435709781090f0d3') in 0.091065 seconds
+  Import took 0.093331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/IdleDefense.fbx
+  artifactKey: Guid(57b622397125a614cbcf534be0575d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/IdleDefense.fbx using Guid(57b622397125a614cbcf534be0575d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc13c59591413e7eb80128553dbbc698') in 0.083001 seconds
+  Import took 0.090397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/IdleNormal.fbx
+  artifactKey: Guid(4a8d928d287d5b440a9bae51db084d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/IdleNormal.fbx using Guid(4a8d928d287d5b440a9bae51db084d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73b2b4f62b48e81fdbbc87dc9d8cf92a') in 0.061021 seconds
+  Import took 0.063249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/Taunting.fbx
+  artifactKey: Guid(f026a023a6a601d40901061165897902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/Taunting.fbx using Guid(f026a023a6a601d40901061165897902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a56ead7ddcfa9c51225b946a052ccf1') in 0.058553 seconds
+  Import took 0.068643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/WalkBWD.fbx
+  artifactKey: Guid(2942dac05f986c244aea7e4979574005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/WalkBWD.fbx using Guid(2942dac05f986c244aea7e4979574005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51ca8bf2ba6f400ff7c622d61ec1f05') in 0.071356 seconds
+  Import took 0.073580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/WalkLeft.fbx
+  artifactKey: Guid(6804082a823f6e24ebd52fe61334bfde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/WalkLeft.fbx using Guid(6804082a823f6e24ebd52fe61334bfde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d5dd3c68f2445888dd374230700e03') in 0.096574 seconds
+  Import took 0.098851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/SenseSomethingRPT.fbx
+  artifactKey: Guid(bb8a1304de59fbb48a2b531c1dc44aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/SenseSomethingRPT.fbx using Guid(bb8a1304de59fbb48a2b531c1dc44aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e12d8e7ba8feb6ff24e1180d61637f') in 0.083200 seconds
+  Import took 0.100390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/WalkFWD.fbx
+  artifactKey: Guid(baf58b4474975404988de2afc0d70e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/WalkFWD.fbx using Guid(baf58b4474975404988de2afc0d70e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6aac60d8619cc66a825e4dfcbd3ed3') in 0.117406 seconds
+  Import took 0.119616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/WalkLeft.fbx
+  artifactKey: Guid(8f578818ec30f1d4a93cbdd0220526ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/WalkLeft.fbx using Guid(8f578818ec30f1d4a93cbdd0220526ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d897ca883d781a84ad8bcfac344ab1f') in 0.057757 seconds
+  Import took 0.059985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/GetHit.fbx
+  artifactKey: Guid(9bb8ad4be09c79a489ec1dccb8a81165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/GetHit.fbx using Guid(9bb8ad4be09c79a489ec1dccb8a81165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a10d133b2f09eaa6534d3b6de9c26830') in 0.097036 seconds
+  Import took 0.110361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/IdleBattle.fbx
+  artifactKey: Guid(a91f2a4f52c21a445bfa1a7df3350303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/IdleBattle.fbx using Guid(a91f2a4f52c21a445bfa1a7df3350303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a3e66ccc0881b1c57cf4610b09f5a8b') in 0.078819 seconds
+  Import took 0.081146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/Taunting.fbx
+  artifactKey: Guid(d15c1acd75570d849aa04b034f1ec8fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/Taunting.fbx using Guid(d15c1acd75570d849aa04b034f1ec8fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f006f087b0cafa91591f00014db38f57') in 0.085596 seconds
+  Import took 0.087828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/Run.fbx
+  artifactKey: Guid(f0fcee68cdec7c14f8fa56dc21dffe02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/Run.fbx using Guid(f0fcee68cdec7c14f8fa56dc21dffe02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a28391a79cfe3791a6832e4a4d976c') in 0.085485 seconds
+  Import took 0.105325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/IdleNormal.fbx
+  artifactKey: Guid(014ad1c1faa3f86418525f41c3c2f6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/IdleNormal.fbx using Guid(014ad1c1faa3f86418525f41c3c2f6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c8d028bba7a154cf4382239af46144') in 0.056571 seconds
+  Import took 0.058904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/SenseSomethingRPT.fbx
+  artifactKey: Guid(434d64445ac0dd44194c48d4a67d0781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/SenseSomethingRPT.fbx using Guid(434d64445ac0dd44194c48d4a67d0781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03093bb3efd4303f09616cb575f54125') in 0.079632 seconds
+  Import took 0.081932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/Victory.fbx
+  artifactKey: Guid(129ce208b0e30344c8f322b2f5b06270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/Victory.fbx using Guid(129ce208b0e30344c8f322b2f5b06270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edecf09b73b57db0a723c77ad93cff6f') in 0.084643 seconds
+  Import took 0.086848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/GetHit.fbx
+  artifactKey: Guid(52a1c14bfc6d3e548b7b348b3f1954cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/GetHit.fbx using Guid(52a1c14bfc6d3e548b7b348b3f1954cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20acd1e77fddafa7500068540aefa074') in 0.064027 seconds
+  Import took 0.068260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/Dizzy.fbx
+  artifactKey: Guid(fb78b57c28912e74eb0f9ed6f8d3e6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/Dizzy.fbx using Guid(fb78b57c28912e74eb0f9ed6f8d3e6ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e9d272e4195ad8185a07ccff4599ce') in 0.044413 seconds
+  Import took 0.068204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/Taunting.fbx
+  artifactKey: Guid(ca0125945b90eba42bb19232d7cf506d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/Taunting.fbx using Guid(ca0125945b90eba42bb19232d7cf506d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e6fe9dc03cd692004503ad0cc08de43') in 0.047973 seconds
+  Import took 0.058893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/WalkBWD.fbx
+  artifactKey: Guid(033672fcdac568546b3c92da9f28101f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/WalkBWD.fbx using Guid(033672fcdac568546b3c92da9f28101f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '488b47e0c014a2879d522a3073904c65') in 0.049707 seconds
+  Import took 0.051958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/WalkLeft.fbx
+  artifactKey: Guid(81cc388f14842ac4ca59c7431882b6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/WalkLeft.fbx using Guid(81cc388f14842ac4ca59c7431882b6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837fdeb1216ba01e30ab6df5da4bcaed') in 0.053790 seconds
+  Import took 0.056067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/WalkFWD.fbx
+  artifactKey: Guid(478a457c77c85c040897d8f7744f3bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/WalkFWD.fbx using Guid(478a457c77c85c040897d8f7744f3bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a319d8637f645709dc3bebbd556067e0') in 0.045226 seconds
+  Import took 0.047467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/SenseSomethingRPT.fbx
+  artifactKey: Guid(2ca32492444268e4785f16fd90c498ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/SenseSomethingRPT.fbx using Guid(2ca32492444268e4785f16fd90c498ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784b7b26911f34ae3d0d13892fa19c13') in 0.074721 seconds
+  Import took 0.084160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/Run.fbx
+  artifactKey: Guid(af71c2d4f33928149a59f7335767a683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/Run.fbx using Guid(af71c2d4f33928149a59f7335767a683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a42cd50eefec8ddb3f1a2398246e63d1') in 0.067028 seconds
+  Import took 0.069270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/Dizzy.fbx
+  artifactKey: Guid(ba9267036a375b246a54f05173660df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/Dizzy.fbx using Guid(ba9267036a375b246a54f05173660df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4e8551d6eea19f28c9974616d11109') in 0.059356 seconds
+  Import took 0.061604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/WalkRight.fbx
+  artifactKey: Guid(fed051c16143d96429ec4423fd67ecba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/WalkRight.fbx using Guid(fed051c16143d96429ec4423fd67ecba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '615f8a18d9f715695049d489c03e1846') in 0.069530 seconds
+  Import took 0.071843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/WalkRight.fbx
+  artifactKey: Guid(f3cb0fb34cbfc254e86493d5f5236aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/WalkRight.fbx using Guid(f3cb0fb34cbfc254e86493d5f5236aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f53e4b17c703295a0c920bdfa09aeea9') in 0.039119 seconds
+  Import took 0.041307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/SenseSomethingST.fbx
+  artifactKey: Guid(64b879d42dbc760468d2e4001be368bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/SenseSomethingST.fbx using Guid(64b879d42dbc760468d2e4001be368bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91df478e6bc21041bd5f51b1cdc61a52') in 0.139783 seconds
+  Import took 0.142023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/Victory.fbx
+  artifactKey: Guid(71e009adfb786cf4ca53e6139bbec13b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/Victory.fbx using Guid(71e009adfb786cf4ca53e6139bbec13b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b24ffe4335a4e9f95b10c607c907da3d') in 0.089744 seconds
+  Import took 0.091939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/IdleBattle.fbx
+  artifactKey: Guid(990595524aab7da419cf17348c990e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/IdleBattle.fbx using Guid(990595524aab7da419cf17348c990e21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9005329edeca3ca304941a94e99b3a2') in 0.090811 seconds
+  Import took 0.103345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/SenseSomethingST.fbx
+  artifactKey: Guid(f0aafae1e775f4a4f9858a9d03845113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/SenseSomethingST.fbx using Guid(f0aafae1e775f4a4f9858a9d03845113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c2376b8bf7c7f2c15193cc9730c6f0') in 0.113313 seconds
+  Import took 0.131118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/IdleBattle.fbx
+  artifactKey: Guid(78ed31756dcdf3447a9ad14f9c5bd118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/IdleBattle.fbx using Guid(78ed31756dcdf3447a9ad14f9c5bd118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31f56d52623ffac8bdef5646eafb0fa') in 0.067122 seconds
+  Import took 0.078479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/GetHit.fbx
+  artifactKey: Guid(8f4ae1ac3e2c3b54cacb62e29a3a63b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/GetHit.fbx using Guid(8f4ae1ac3e2c3b54cacb62e29a3a63b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2893a08947863ae62af33ad9dc1972') in 0.081400 seconds
+  Import took 0.083699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/SenseSomethingST.fbx
+  artifactKey: Guid(b658f6a00dad8a342ba3d4ac6a970ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/SenseSomethingST.fbx using Guid(b658f6a00dad8a342ba3d4ac6a970ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e9a4ea32de61b923b8dbac285fd9918') in 0.035359 seconds
+  Import took 0.037588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/WalkRight.fbx
+  artifactKey: Guid(45098c3db6ad9ff4e9ead53647492fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/WalkRight.fbx using Guid(45098c3db6ad9ff4e9ead53647492fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71b879da609f5cb71ec1d31540d1a415') in 0.056486 seconds
+  Import took 0.058706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/IdleNormal.fbx
+  artifactKey: Guid(45fcda2d9dd6ce44abc284d72921028c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Crab Monster/IdleNormal.fbx using Guid(45fcda2d9dd6ce44abc284d72921028c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0d2893be2deba7a5372f46d7f2c6c31') in 0.043929 seconds
+  Import took 0.046097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/WalkFWD.fbx
+  artifactKey: Guid(7c1f8b764c8612740a0c2d8322281a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Lizard Warrior/WalkFWD.fbx using Guid(7c1f8b764c8612740a0c2d8322281a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78871e4d17a8f1564d31087cf07be2fe') in 0.075161 seconds
+  Import took 0.077416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/WalkBWD.fbx
+  artifactKey: Guid(a527b3dae2b5b6b46be02b3daa4bc6fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Flying Demon/WalkBWD.fbx using Guid(a527b3dae2b5b6b46be02b3daa4bc6fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f8ab393e92ab4e31a31410b1aaf99a') in 0.053676 seconds
+  Import took 0.055887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.181644 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Black Knight/SenseSomethingRPT.fbx
+  artifactKey: Guid(49a211a1b9b809b4790faf8d37193023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Black Knight/SenseSomethingRPT.fbx using Guid(49a211a1b9b809b4790faf8d37193023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75bf1f9db0a519a30d7a41422730eaa8') in 0.132414 seconds
+  Import took 0.134784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Black Knight/WalkBWD.fbx
+  artifactKey: Guid(a2f7eba59a7ce784da8cad63264b20b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Black Knight/WalkBWD.fbx using Guid(a2f7eba59a7ce784da8cad63264b20b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c420e947a8c892a10f7b2eae7875b29d') in 0.091319 seconds
+  Import took 0.093536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Black Knight/SenseSomethingRPT.fbx
+  artifactKey: Guid(49a211a1b9b809b4790faf8d37193023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Black Knight/SenseSomethingRPT.fbx using Guid(49a211a1b9b809b4790faf8d37193023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75bf1f9db0a519a30d7a41422730eaa8') in 0.028812 seconds
+  Import took 0.031007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Black Knight/WalkFWD.fbx
+  artifactKey: Guid(b3fa191897810aa4991f168f1f998f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Black Knight/WalkFWD.fbx using Guid(b3fa191897810aa4991f168f1f998f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d171ce0a0f4ec7af6c31124e3e3b0f6') in 0.078871 seconds
+  Import took 0.080996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Black Knight/Taunting.fbx
+  artifactKey: Guid(a51dceed0974313498029fe113a24d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Black Knight/Taunting.fbx using Guid(a51dceed0974313498029fe113a24d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1435528988bc74aa19499d573046936') in 0.068742 seconds
+  Import took 0.070985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Black Knight/SenseSomethingST.fbx
+  artifactKey: Guid(dcd015cfd64ecd845ae23efd57caa5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Black Knight/SenseSomethingST.fbx using Guid(dcd015cfd64ecd845ae23efd57caa5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5c2697c0302dbde6fd071bb0d4b8c4a') in 0.066296 seconds
+  Import took 0.068585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.324842 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/Dizzy.fbx
+  artifactKey: Guid(299e850f24e5bee458595c2922e5cc58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/Dizzy.fbx using Guid(299e850f24e5bee458595c2922e5cc58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c8d31ba8757b0d6e5d0e1e32d5e30b') in 0.094912 seconds
+  Import took 0.097191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/IdleNormal.fbx
+  artifactKey: Guid(5297e14b01f95e5449dc7737bfbc0182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/IdleNormal.fbx using Guid(5297e14b01f95e5449dc7737bfbc0182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3515c2d395f3010ea393301e92e1c453') in 0.061853 seconds
+  Import took 0.064181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/GetHit.fbx
+  artifactKey: Guid(f963cdf359d14ab45bc2d03df00ac2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/GetHit.fbx using Guid(f963cdf359d14ab45bc2d03df00ac2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a507398f327f51896f210d0f7c32123a') in 0.073917 seconds
+  Import took 0.076117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/SenseSomethingRPT.fbx
+  artifactKey: Guid(92bd17c705ba003419370e3e00f24fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/SenseSomethingRPT.fbx using Guid(92bd17c705ba003419370e3e00f24fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31405eab2928f9539184c66bde5931be') in 0.054081 seconds
+  Import took 0.064928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/Victory.fbx
+  artifactKey: Guid(f02c811e98f6ac345952793b3c679526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/Victory.fbx using Guid(f02c811e98f6ac345952793b3c679526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c176748ce33981b6069c6d5ed9be5ea8') in 0.039888 seconds
+  Import took 0.049117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/WalkBWD.fbx
+  artifactKey: Guid(357b23ce0e3bb5c40bedb0b0b7a4b456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/WalkBWD.fbx using Guid(357b23ce0e3bb5c40bedb0b0b7a4b456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3cb9f29e7bea04a14d420370ba2bfa') in 0.043863 seconds
+  Import took 0.046013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/WalkLeft.fbx
+  artifactKey: Guid(c66948b435b43d641bd065c67480faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/WalkLeft.fbx using Guid(c66948b435b43d641bd065c67480faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b68171b76d8c6a8d7d4015401ea435') in 0.059970 seconds
+  Import took 0.062177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/IdleBattle.fbx
+  artifactKey: Guid(ba902775f0410cc42b746a2e74457bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/IdleBattle.fbx using Guid(ba902775f0410cc42b746a2e74457bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca2745534930eea7e14aeaa937545bab') in 0.047143 seconds
+  Import took 0.052998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/SenseSomethingST.fbx
+  artifactKey: Guid(6d466dc475c48b540a1682fd76152a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/SenseSomethingST.fbx using Guid(6d466dc475c48b540a1682fd76152a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7608dcbf85422c34ff3e614fd9b3f32f') in 0.043954 seconds
+  Import took 0.046141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/WalkFWD.fbx
+  artifactKey: Guid(ffdec860cb4b2ea4d80a93f0671a0939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/WalkFWD.fbx using Guid(ffdec860cb4b2ea4d80a93f0671a0939) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '160c2c5b0a9f4fba60fff4645b7b937f') in 0.045217 seconds
+  Import took 0.047394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/Taunting.fbx
+  artifactKey: Guid(44514a58f2e3d3049bce7720a415f071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/Taunting.fbx using Guid(44514a58f2e3d3049bce7720a415f071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '075e35f714e2ad5f72e3d78031ea903e') in 0.168446 seconds
+  Import took 0.170680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/Run.fbx
+  artifactKey: Guid(5b5fcbba581ef9e459b6f9080806c711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/Run.fbx using Guid(5b5fcbba581ef9e459b6f9080806c711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0752ce5c90a561bc21f5b162b748cb6c') in 0.045713 seconds
+  Import took 0.047926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/RPGMonsterWave02Polyart/Animations/Beholder/WalkRight.fbx
+  artifactKey: Guid(1eecef2ab83a0534a855b389434913fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPGMonsterWave02Polyart/Animations/Beholder/WalkRight.fbx using Guid(1eecef2ab83a0534a855b389434913fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8a55c68dfe0d878d96a181186b59049') in 0.089580 seconds
+  Import took 0.091869 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004622 seconds.
+Registered in 0.004468 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.743 seconds
+- Completed reload, in  0.737 seconds
 Platform modules already initialized, skipping
 Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
 Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 142.0 MB.
-System memory in use after: 142.1 MB.
+System memory in use before: 160.5 MB.
+System memory in use after: 160.5 MB.
 
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1846.
-Total: 1.642000 ms (FindLiveObjects: 0.170100 ms CreateObjectMapping: 0.048700 ms MarkObjects: 1.357700 ms  DeleteObjects: 0.064600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004651 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.751 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 142.0 MB.
-System memory in use after: 142.1 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1849.
-Total: 1.735300 ms (FindLiveObjects: 0.202700 ms CreateObjectMapping: 0.049500 ms MarkObjects: 1.418500 ms  DeleteObjects: 0.063700 ms)
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1857.
+Total: 1.753500 ms (FindLiveObjects: 0.137400 ms CreateObjectMapping: 0.041900 ms MarkObjects: 1.501700 ms  DeleteObjects: 0.071400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005092 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.754 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 142.1 MB.
-System memory in use after: 142.1 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1852.
-Total: 1.943300 ms (FindLiveObjects: 0.156500 ms CreateObjectMapping: 0.053700 ms MarkObjects: 1.665100 ms  DeleteObjects: 0.066400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004654 seconds.
+Registered in 0.004777 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
@@ -178,24 +710,242 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.738 seconds
+- Completed reload, in  0.737 seconds
 Platform modules already initialized, skipping
 Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 142.1 MB.
-System memory in use after: 142.1 MB.
+System memory in use before: 160.5 MB.
+System memory in use after: 160.5 MB.
 
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1855.
-Total: 1.647300 ms (FindLiveObjects: 0.147500 ms CreateObjectMapping: 0.043000 ms MarkObjects: 1.392700 ms  DeleteObjects: 0.063400 ms)
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1860.
+Total: 1.677800 ms (FindLiveObjects: 0.151700 ms CreateObjectMapping: 0.042900 ms MarkObjects: 1.405500 ms  DeleteObjects: 0.076900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004651 seconds.
+Registered in 0.004574 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.4 MB.
+System memory in use after: 160.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1863.
+Total: 1.612100 ms (FindLiveObjects: 0.189900 ms CreateObjectMapping: 0.043900 ms MarkObjects: 1.315900 ms  DeleteObjects: 0.061500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 467.106811 seconds.
+  path: Assets/Prefabs/FIre.prefab
+  artifactKey: Guid(1af0e4fc48d5a5b4c97bb87be5c16156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/FIre.prefab using Guid(1af0e4fc48d5a5b4c97bb87be5c16156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c6316d39d7933f0556fbf2c3a2dd90') in 0.029418 seconds
+  Import took 0.031807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.454678 seconds.
+  path: Assets/Prefabs/FIre.prefab
+  artifactKey: Guid(1af0e4fc48d5a5b4c97bb87be5c16156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/FIre.prefab using Guid(1af0e4fc48d5a5b4c97bb87be5c16156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9304c316750f0da1ef060c9dc0c0c0') in 0.003332 seconds
+  Import took 0.005537 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004640 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.4 MB.
+System memory in use after: 160.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1866.
+Total: 1.687800 ms (FindLiveObjects: 0.144600 ms CreateObjectMapping: 0.039100 ms MarkObjects: 1.434500 ms  DeleteObjects: 0.067500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 98.153345 seconds.
+  path: Assets/Prefabs/FIre.prefab
+  artifactKey: Guid(1af0e4fc48d5a5b4c97bb87be5c16156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/FIre.prefab using Guid(1af0e4fc48d5a5b4c97bb87be5c16156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b20fe9b5be2ceadc923d67cfbab65a') in 0.022212 seconds
+  Import took 0.036173 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004594 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.741 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.5 MB.
+System memory in use after: 160.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1869.
+Total: 1.585500 ms (FindLiveObjects: 0.134800 ms CreateObjectMapping: 0.037600 ms MarkObjects: 1.347900 ms  DeleteObjects: 0.063700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 129.186167 seconds.
+  path: Assets/Macros/GameController.asset
+  artifactKey: Guid(bcf821dc77ad9b74aab8d5f409ab5bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Macros/GameController.asset using Guid(bcf821dc77ad9b74aab8d5f409ab5bec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a064edcf87b277edf443ef58d247970') in 0.483513 seconds
+  Import took 0.485738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Macros/Plant.asset
+  artifactKey: Guid(0be1e6e6162fc6645ae5f2d931f49d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Macros/Plant.asset using Guid(0be1e6e6162fc6645ae5f2d931f49d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd68d2dcc90532b0ee494e8038ea298db') in 0.142526 seconds
+  Import took 0.144962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Macros/Turtle.asset
+  artifactKey: Guid(b8b1066347fa6994a9035b3985e4103c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Macros/Turtle.asset using Guid(b8b1066347fa6994a9035b3985e4103c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '502329ec05d05969cba488e98ce31b26') in 0.049467 seconds
+  Import took 0.051534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Macros/Skeleton 1.asset
+  artifactKey: Guid(ae17616e45d3a5a4596281b4d36b103b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Macros/Skeleton 1.asset using Guid(ae17616e45d3a5a4596281b4d36b103b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94d599b4ffb0c6c77f12048b234445a6') in 0.034380 seconds
+  Import took 0.060629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Macros/Turtle 1.asset
+  artifactKey: Guid(eb12c757ec45ebf4db0f32fedff093bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Macros/Turtle 1.asset using Guid(eb12c757ec45ebf4db0f32fedff093bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c20bb0b591a46dba0ae1cc2a8078bd') in 0.021767 seconds
+  Import took 0.035453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Macros/Plant 1.asset
+  artifactKey: Guid(00d717c4bcfafc8458908eba7e34eb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Macros/Plant 1.asset using Guid(00d717c4bcfafc8458908eba7e34eb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025422e944bee8b3b76f0c9f8ef70e86') in 0.020085 seconds
+  Import took 0.022646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.819881 seconds.
+  path: Assets/Macros/Orc 1.asset
+  artifactKey: Guid(d4eb93a74cc7f814bbdc74c4ffef48d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Macros/Orc 1.asset using Guid(d4eb93a74cc7f814bbdc74c4ffef48d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b14eb21b6a1b31567445b97cf0f604') in 0.017166 seconds
+  Import took 0.019237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002050 seconds.
+  path: Assets/Macros/Orc 1.asset
+  artifactKey: Guid(d4eb93a74cc7f814bbdc74c4ffef48d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Macros/Orc 1.asset using Guid(d4eb93a74cc7f814bbdc74c4ffef48d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b14eb21b6a1b31567445b97cf0f604') in 0.018816 seconds
+  Import took 0.020901 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004542 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.5 MB.
+System memory in use after: 160.6 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1873.
+Total: 1.862600 ms (FindLiveObjects: 0.151100 ms CreateObjectMapping: 0.045100 ms MarkObjects: 1.592800 ms  DeleteObjects: 0.072800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004764 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.722 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.5 MB.
+System memory in use after: 160.6 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1876.
+Total: 2.057000 ms (FindLiveObjects: 0.178800 ms CreateObjectMapping: 0.063900 ms MarkObjects: 1.732800 ms  DeleteObjects: 0.079700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004671 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
@@ -204,70 +954,369 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.754 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 142.1 MB.
-System memory in use after: 142.1 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1858.
-Total: 1.682500 ms (FindLiveObjects: 0.148900 ms CreateObjectMapping: 0.044300 ms MarkObjects: 1.430300 ms  DeleteObjects: 0.058000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004723 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.747 seconds
-Platform modules already initialized, skipping
-Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 142.1 MB.
-System memory in use after: 142.2 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1861.
-Total: 1.940200 ms (FindLiveObjects: 0.188400 ms CreateObjectMapping: 0.047500 ms MarkObjects: 1.636100 ms  DeleteObjects: 0.065500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004568 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.752 seconds
+- Completed reload, in  0.726 seconds
 Platform modules already initialized, skipping
 Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
 Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 142.0 MB.
-System memory in use after: 142.1 MB.
+System memory in use before: 160.5 MB.
+System memory in use after: 160.6 MB.
 
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1864.
-Total: 2.315500 ms (FindLiveObjects: 0.211500 ms CreateObjectMapping: 0.067800 ms MarkObjects: 1.952200 ms  DeleteObjects: 0.082200 ms)
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1879.
+Total: 1.711700 ms (FindLiveObjects: 0.139700 ms CreateObjectMapping: 0.037300 ms MarkObjects: 1.469800 ms  DeleteObjects: 0.063700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004648 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.714 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.5 MB.
+System memory in use after: 160.6 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1882.
+Total: 1.974600 ms (FindLiveObjects: 0.180000 ms CreateObjectMapping: 0.055500 ms MarkObjects: 1.665800 ms  DeleteObjects: 0.072000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004555 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.727 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.6 MB.
+System memory in use after: 160.6 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1885.
+Total: 1.646600 ms (FindLiveObjects: 0.136200 ms CreateObjectMapping: 0.041300 ms MarkObjects: 1.405200 ms  DeleteObjects: 0.063200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004532 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.719 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.6 MB.
+System memory in use after: 160.6 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1888.
+Total: 1.792600 ms (FindLiveObjects: 0.183100 ms CreateObjectMapping: 0.050400 ms MarkObjects: 1.487700 ms  DeleteObjects: 0.070000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004730 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.730 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.6 MB.
+System memory in use after: 160.6 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1891.
+Total: 1.469800 ms (FindLiveObjects: 0.151800 ms CreateObjectMapping: 0.043100 ms MarkObjects: 1.213100 ms  DeleteObjects: 0.060700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 857.900559 seconds.
+  path: Assets/Macros/Orc 1.asset
+  artifactKey: Guid(d4eb93a74cc7f814bbdc74c4ffef48d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Macros/Orc 1.asset using Guid(d4eb93a74cc7f814bbdc74c4ffef48d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37632e3c01d9974ffbe2264dcfe51a0b') in 0.535715 seconds
+  Import took 0.559249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.460229 seconds.
+  path: Assets/Scenes/Stage20.unity
+  artifactKey: Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20.unity using Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b9365ddeff0d6f836136f96a80ec94') in 0.005100 seconds
+  Import took 0.007320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.395219 seconds.
+  path: Assets/Scenes/Stage20.unity
+  artifactKey: Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20.unity using Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff5afe85864db63ce67623ac9fc2cb8') in 0.001806 seconds
+  Import took 0.003776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054177 seconds.
+  path: Assets/Scenes/Stage10.unity
+  artifactKey: Guid(6c32a39e726f6b344a28df4b6fa51b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage10.unity using Guid(6c32a39e726f6b344a28df4b6fa51b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fafdfe1cb16e06500e613007f26e13f7') in 0.005151 seconds
+  Import took 0.007126 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004605 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.723 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.6 MB.
+System memory in use after: 160.7 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1894.
+Total: 1.619100 ms (FindLiveObjects: 0.157700 ms CreateObjectMapping: 0.043600 ms MarkObjects: 1.353200 ms  DeleteObjects: 0.062700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004676 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.745 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.6 MB.
+System memory in use after: 160.7 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1897.
+Total: 1.775500 ms (FindLiveObjects: 0.161400 ms CreateObjectMapping: 0.045300 ms MarkObjects: 1.451200 ms  DeleteObjects: 0.115600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 175.353784 seconds.
+  path: Assets/Scenes/Stage7.unity
+  artifactKey: Guid(5f891e32fb492cb49972de756d8b483b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage7.unity using Guid(5f891e32fb492cb49972de756d8b483b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa5f04bdb9344690ab4f7f7caef4302') in 0.012663 seconds
+  Import took 0.022947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 303.530171 seconds.
+  path: Assets/Scenes/Stage20/NavMesh-NavMesh Surface.asset
+  artifactKey: Guid(6aa133d8ce1599542bd35a100d480f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20/NavMesh-NavMesh Surface.asset using Guid(6aa133d8ce1599542bd35a100d480f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249f38095b4389a81f8e771baf5bc584') in 0.005260 seconds
+  Import took 0.007694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Scenes/Stage20/OcclusionCullingData.asset
+  artifactKey: Guid(b41da5250fde0cb43b6f58355d705ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20/OcclusionCullingData.asset using Guid(b41da5250fde0cb43b6f58355d705ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4b69af2e8ebd8ed3980221e329fc65') in 0.008279 seconds
+  Import took 0.021439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Scenes/Stage20/NavMesh-NavMesh Surface.asset
+  artifactKey: Guid(6aa133d8ce1599542bd35a100d480f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20/NavMesh-NavMesh Surface.asset using Guid(6aa133d8ce1599542bd35a100d480f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249f38095b4389a81f8e771baf5bc584') in 0.001943 seconds
+  Import took 0.003737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014198 seconds.
+  path: Assets/Scenes/Stage20/OcclusionCullingData.asset
+  artifactKey: Guid(b41da5250fde0cb43b6f58355d705ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20/OcclusionCullingData.asset using Guid(b41da5250fde0cb43b6f58355d705ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4b69af2e8ebd8ed3980221e329fc65') in 0.005178 seconds
+  Import took 0.007230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.284562 seconds.
+  path: Assets/Scenes/Stage20.unity
+  artifactKey: Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20.unity using Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00434f14db029813a353296d27322b65') in 0.001849 seconds
+  Import took 0.003865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.945338 seconds.
+  path: Assets/Scenes/Stage10.unity
+  artifactKey: Guid(6c32a39e726f6b344a28df4b6fa51b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage10.unity using Guid(6c32a39e726f6b344a28df4b6fa51b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b5baca074a7a53ec6d73f8755eeb3b') in 0.001895 seconds
+  Import took 0.019308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.015104 seconds.
+  path: Assets/Scenes/Stage20.unity
+  artifactKey: Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20.unity using Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018fce840706f0c16ab04466b23346eb') in 0.001992 seconds
+  Import took 0.003961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000628 seconds.
+  path: Assets/Scenes/Stage20.unity
+  artifactKey: Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20.unity using Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018fce840706f0c16ab04466b23346eb') in 0.001748 seconds
+  Import took 0.003763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.497629 seconds.
+  path: Assets/Scenes/Stage10.unity
+  artifactKey: Guid(6c32a39e726f6b344a28df4b6fa51b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage10.unity using Guid(6c32a39e726f6b344a28df4b6fa51b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22be7939024949322cf1949c45634dad') in 0.001934 seconds
+  Import took 0.011486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.953654 seconds.
+  path: Assets/Scenes/Stage19.unity
+  artifactKey: Guid(51eba2cc5cefc1848a7fc46daa74d034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage19.unity using Guid(51eba2cc5cefc1848a7fc46daa74d034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb327f2170e1918579c45f852859905') in 0.005533 seconds
+  Import took 0.007658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.033359 seconds.
+  path: Assets/Scenes/Stage20.unity
+  artifactKey: Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20.unity using Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c19a4925206b551402b8d6690de58d') in 0.001839 seconds
+  Import took 0.003789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/Scenes/Stage20.unity
+  artifactKey: Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage20.unity using Guid(d2e92a9717fc7504ebba9424af67ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c19a4925206b551402b8d6690de58d') in 0.001838 seconds
+  Import took 0.003729 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004597 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.835 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.6 MB.
+System memory in use after: 160.7 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1900.
+Total: 1.665400 ms (FindLiveObjects: 0.153100 ms CreateObjectMapping: 0.041200 ms MarkObjects: 1.407600 ms  DeleteObjects: 0.062900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 636.538366 seconds.
+  path: Assets/Materials/Normal/MoveFloorMaterial.mat
+  artifactKey: Guid(987e5b9670518ad43b026478ab67dc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Normal/MoveFloorMaterial.mat using Guid(987e5b9670518ad43b026478ab67dc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9200c89e019cc70f499b6e80392b273a') in 0.143835 seconds
+  Import took 0.146604 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004447 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.735 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1326 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.8 MB.
+System memory in use after: 160.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1937.
+Total: 1.585400 ms (FindLiveObjects: 0.157600 ms CreateObjectMapping: 0.039200 ms MarkObjects: 1.323800 ms  DeleteObjects: 0.063800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
