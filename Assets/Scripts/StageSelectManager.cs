@@ -12,7 +12,6 @@ using Bolt;
 public class StageSelectManager : MonoBehaviour
 {
     private RewardedAd rewardedAd;
-    [SerializeField] InAppPurchasingManager IAPM;
     [SerializeField] CanvasGroup FadePanel;
     [SerializeField] GameObject[] TextsJa;
     [SerializeField] GameObject[] TextsEn;
@@ -155,12 +154,6 @@ public class StageSelectManager : MonoBehaviour
         string url = "https://twitter.com/intent/tweet?text=" + "&hashtags=" + esctag1 + "&hashtags=" + esctag2;
         Application.OpenURL(url);
     }
-    public void RequestReview() {
-        UnityEngine.iOS.Device.RequestStoreReview();
-    }
-    public void Purchase() {
-        IAPM.BuyRemoveAds();
-    }
     public void ToggleBGM() {
         SoundManager.instance.audioSourceBGM.mute = !SoundManager.instance.audioSourceBGM.mute;
         SoundManager.instance.PlaySE(2);
@@ -193,9 +186,9 @@ public class StageSelectManager : MonoBehaviour
     private void RequestReward() {
         string adUnitId;
         #if UNITY_ANDROID
-            adUnitId = "ca-app-pub-3940256099942544/5224354917";
+            adUnitId = "ca-app-pub-3130499445569782/5033146663";
         #elif UNITY_IPHONE
-            adUnitId = "ca-app-pub-3940256099942544/1712485313";
+            adUnitId = "ca-app-pub-3130499445569782/4073442304";
         #else
             adUnitId = "unexpected_platform";
         #endif
